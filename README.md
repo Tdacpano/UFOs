@@ -12,5 +12,5 @@
 <img width="1548" alt="Screen Shot 2023-02-15 at 11 17 37 AM" src="https://user-images.githubusercontent.com/117120227/219130163-cd91765a-c1b8-4c85-85a3-e5fb507ed027.png">
 
 # Summary:
-    To summarize we created a dynamic table within our webpage to filter through UFO data based on date, city, state, country, and shape. One drawback of the webpage is that we do not have a search filter based on keywords that individuals could look up if interested. Some possible recommendations could be to add some links to videos or more information on UFOs with the extra space we have on the webpage that can make it even more interactive. Additonally, capitalizing the city, state, and country names could make the webpage look more appealing.
+  To summarize we created a dynamic table within our webpage to filter through UFO data based on date, city, state, country, and shape. One drawback of the webpage is that we do not have a search filter based on keywords that individuals could look up if interested. Some possible recommendations could be to add some links to videos or more information on UFOs with the extra space we have on the webpage that can make it even more interactive. Additonally, capitalizing the city, state, and country names could make the webpage look more appealing.
 
